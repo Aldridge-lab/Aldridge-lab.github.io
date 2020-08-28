@@ -1,0 +1,61 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	font-family: cursive; serif; 
+}
+#header-nav {
+	background-color: #808080;
+	border-radius: 0;
+	border-style: 0;
+}
+.navbar-brand {
+	padding-top: 10px;
+	padding-left: 0;
+}
+.navbar-brand h1 {
+	font-family: 'lora' serif;
+	font-size: 1.6em;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#header-nav button.navbar-toggle, .header-nav .icon-bar {
+	border: 1px solid #008080;
+	background-color: #00ffff;
+}
+#collapsable-nav, .collapse navbar-collapse {
+	background-color: #00ffff;
+
+}
+#collapsable-nav ul li {
+	text-decoration: none;
+	list-style: none;
+}
+
+#collapsable-nav ul li a {
+	text-decoration: none;
+
+
+}
+#collapsable-nav ul li a:hover, #collapsable-nav ul li a:focus {
+	color: #000;
+}
+
+.container-fluid {
+	color: #009fff;
+	padding-bottom: 20px;
+	font-family: 'lora', serif;
+	text-shadow: 2px 2px 30px;
+}
+#main-content {
+	background-color: #008080;
+	width: 98%;
+}
+#menu-tile {
+	color: #00ffff;
+	text-transform: uppercase;
+	font-family: 'lora', serif;
+}
